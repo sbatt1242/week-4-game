@@ -1,0 +1,41 @@
+
+
+
+
+body {
+    font-size: 2em;
+    margin: 2em 2em 4em 2em;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.jumbotron {
+    background-color: purple;
+    color: orange;
+}
+
+div.container-fluid {
+    background: yellow;
+}
+ 
+.steps {
+    padding-top: 4em;
+}
+
+
+
+div.row {
+  padding-top: 4em;  
+}
+
+div.row.text-center {
+    margin: 8em 0em 8em 0em;
+}
+
+.jumbotron {
+    background-color: blue;
+}
+
+ 
